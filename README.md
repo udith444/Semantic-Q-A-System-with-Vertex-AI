@@ -2,7 +2,7 @@
 
 A question-answering system that uses **semantic search** and **LLMs** to find and generate answers from a Stack Overflow dataset.
 
-![Demo](https://via.placeholder.com/600x400?text=Demo+GIF+Here) *(Replace with actual demo image/gif)*
+![Demo] 
 
 ## Features
 - 🔍 **Semantic Search**: Finds relevant answers using embeddings (Google's `textembedding-gecko`).
