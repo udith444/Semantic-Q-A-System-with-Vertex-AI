@@ -18,10 +18,10 @@ A question-answering system that uses **semantic search** and **LLMs** to find a
 
 ## Dataset
 
-- **Pre-processed Stack Overflow Q&A pairs**: [`so_database_app.csv`](data/so_database_app.csv)  
+- **Pre-processed Stack Overflow Q&A pairs**: [`so_database_app.csv`](so_database_app.csv)  
   Contains cleaned question-answer pairs from Stack Overflow.
 
-- **Pre-computed embeddings**: [`question_embeddings_app.pkl`](data/question_embeddings_app.pkl)  
+- **Pre-computed embeddings**: [`question_embeddings_app.pkl`](question_embeddings_app.pkl)  
   Generated using Google Vertex AI's `textembedding-gecko@001` model.
 
 ---
